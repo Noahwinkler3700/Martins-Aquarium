@@ -1,19 +1,19 @@
 const locationOne = {
-    country: "Honolulu, HI",
-    blurb: "The Hawaiian islands are a tropical paradise brimming with fish",
-    image: "hawaii.jpg"
+    country: "Fish Tanks around the country.",
+    blurb: "Can usually be found hanging out with dory.",
+    image: "yellow-tang-home.webp"
 }
 
 const locationTwo = {
-    country: "Cape Cod, MA",
-    blurb: "Scene of rather exciting shark sightings along the coast.",
-    image: "capecod.jpg"
+    country: "Deep blue sea.",
+    blurb: '"Fish are friends not food- Bruce"',
+    image: "beach-pic.jpg"
 }
 
 const locationThree = {
-    country: "Fiji",
-    blurb: "Stunning south Pacific island with an incredibly diverse eco-system.",
-    image: "fiji.jpg"
+    country: "Every local restaraunt fish tank.",
+    blurb: "Commonly found hanging out with flounders at Seaworld.",
+    image: "puffer-home.jpg"
 }
 
 const locationList = [locationOne, locationTwo, locationThree]
